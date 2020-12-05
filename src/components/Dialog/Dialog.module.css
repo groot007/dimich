@@ -1,0 +1,28 @@
+.dialogsList {
+    display: flex;
+    background: grey;
+}
+
+.userList {
+    width: 30%;
+    border-right: 1px solid #d00;
+}
+
+.user {
+    color: white;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+}
+
+.messages {
+    width: 100%;
+    padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.message {
+    color: white;
+    padding: 5px 30px;
+    background: rgba(255,255,255, .5);
+}

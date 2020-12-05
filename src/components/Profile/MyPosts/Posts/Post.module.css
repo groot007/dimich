@@ -1,0 +1,9 @@
+.post {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.post img {
+    max-width: 80px;
+    margin-right: 20px;
+}
